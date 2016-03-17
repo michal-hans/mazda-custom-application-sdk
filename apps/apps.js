@@ -33,6 +33,9 @@
  */
 
 var CustomApplications = [
+	"app.aso",
+	"app.ligths",
+	"app.tirepressure",
 	"app.speedometer",
 	"app.simpledashboard",
 	"app.vdd",
