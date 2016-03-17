@@ -5,3 +5,7 @@ node_modules/
 npm_modules/
 build/
 dist/
+
+#IntelliJ IDEA files
+*.iml
+.idea
